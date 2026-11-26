@@ -48,7 +48,7 @@ abstract class CopyRenamedApks extends DefaultTask {
         builtArtifacts.elements.each { artifact ->
             def abi = artifact.filters.find { it.filterType.toString() == 'ABI' }?.identifier ?: 'universal'
             def version = (artifact.versionName ?: 'unknown').split(' ')[0] // without the code name
-            def outputFile = new File(outputDirectory, "MeeTube_${version}_${nameTag.get()}${abi}.apk")
+            def outputFile = new File(outputDirectory, "DaouDi_${version}_${nameTag.get()}${abi}.apk")
             Files.copy(new File(artifact.outputFile).toPath(), outputFile.toPath(), StandardCopyOption.REPLACE_EXISTING)
         }
     }
