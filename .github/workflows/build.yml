@@ -1,4 +1,4 @@
-# Builds MeeTube on every push to main or staging, on pull requests, and by hand
+# Builds DaouDi on every push to main or staging, on pull requests, and by hand
 # (Actions > Build > Run workflow). It only builds: releases come from release.yml on a v* tag.
 # With the signing secrets (same as release.yml) it builds the signed release APKs, without them
 # (pull requests from forks) a debug build. The APKs are kept as the run's artifact for 14 days.
@@ -70,7 +70,7 @@ jobs:
           name=$(grep -oP 'versionName "\K[0-9]+\.[0-9]+\.[0-9]+[^"]*' mobile/build.gradle | tail -n 1)
           echo "name=$name" >> "$GITHUB_OUTPUT"
           {
-            echo "### MeeTube $name (${{ steps.sign.outputs.type }})"
+            echo "### DaouDi $name (${{ steps.sign.outputs.type }})"
             echo
             echo "Commit \`${GITHUB_SHA::7}\` on \`${GITHUB_REF_NAME}\`"
             echo
@@ -84,7 +84,7 @@ jobs:
       - name: Keep APKs
         uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         with:
-          name: MeeTube ${{ steps.meta.outputs.name }} ${{ steps.sign.outputs.type }} ${{ github.run_number }}
+          name: DaouDi ${{ steps.meta.outputs.name }} ${{ steps.sign.outputs.type }} ${{ github.run_number }}
           path: dist/*.apk
           retention-days: 14
           if-no-files-found: error
