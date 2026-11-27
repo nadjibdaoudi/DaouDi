@@ -680,7 +680,7 @@
     <string name="mobile_about_star_desc">Free and open source. A star helps others find it</string>
     <string name="mobile_about_share">Share DaouDi</string>
     <string name="mobile_about_share_desc">Send the link to someone who\'d like it</string>
-    <string name="mobile_about_share_text">MeeTube — a YouTube client for phones, built on SmartTube: %1$s</string>
+    <string name="mobile_about_share_text">DaouDi — a YouTube client for phones, built on SmartTube: %1$s</string>
     <string name="mobile_about_repo_url" translatable="false">https://github.com/yashoncode/meetube</string>
     <!-- MEETUBE(about): the card at the top of About. -->
     <string name="mobile_about_dev_name" translatable="false">Yashwanth</string>
@@ -694,7 +694,7 @@
     <string name="mobile_about_coffee_note"><![CDATA[<font color="#FF5F56">●</font> <font color="#FFBD2E">●</font> <font color="#27C93F">●</font><br><br><font color="#4ADE80">$</font> meetube --thank-you<br><font color="#E6EDF3">&#160;&#160;ads: 0 | sponsors: skipped</font><br><font color="#8B949E">// built at 3am on pure caffeine<br>// refill? totally optional :)</font>]]></string>
     <string name="mobile_about_coffee_cta" translatable="false">sudo brew coffee</string>
     <string name="mobile_stats_today">Today</string>
-    <string name="mobile_stats_hero_label">in MeeTube today</string>
+    <string name="mobile_stats_hero_label">in DaouDi today</string>
     <string name="mobile_stats_videos">Videos</string>
     <string name="mobile_stats_week_title">Last 7 days · %1$s</string>
     <string name="mobile_stats_tap">Tap a bar to see that day</string>
