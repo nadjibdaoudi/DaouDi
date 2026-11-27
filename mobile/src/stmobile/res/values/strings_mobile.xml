@@ -145,7 +145,7 @@
     <!-- Comments panel (under the video: CommentsPanel) -->
     <string name="mobile_comments_entry">Comments</string>
     <string name="mobile_settings_card_style">Card style</string>
-    <string name="mobile_you_about">About MeeTube  ›</string>
+    <string name="mobile_you_about">About DaouDi ›</string>
     <string name="mobile_card_style_plain">Minimal</string>
     <string name="mobile_card_style_plain_desc">Faint glass on black with a glass edge, no accent</string>
     <string name="mobile_card_style_minimal">MeeTube minimal</string>
@@ -346,7 +346,7 @@
     <string name="mobile_signin_step1_caption">Google\'s sign-in page opens right here.</string>
     <string name="mobile_signin_step2_title">Choose your account and allow access</string>
     <string name="mobile_signin_step2_caption">The page may mention a TV or another device \u2014 that\'s normal: MeeTube signs in the same way a TV does, so your password never touches the app.</string>
-    <string name="mobile_signin_step3_title">Come back to MeeTube</string>
+    <string name="mobile_signin_step3_title">Come back to DaouDi</string>
     <string name="mobile_signin_step3_caption">Sign-in finishes by itself \u2014 nothing else to do.</string>
     <string name="mobile_signin_code_label">Google will show this code \u2014 check it matches:</string>
     <string name="mobile_signin_copy_hint">Tap the code to copy it</string>
