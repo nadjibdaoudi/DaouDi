@@ -189,8 +189,8 @@
     <string name="meetune_open_artist">Open artist</string>
     <string name="meetune_song_info">Song info</string>
     <string name="meetune_karaoke">Karaoke</string>
-    <string name="meetune_karaoke_name">MeeTune AI Karaoke</string>
-    <string name="meetune_karaoke_beta">MeeTune AI Karaoke (Beta)</string>
+    <string name="meetune_karaoke_name">Spotify N AI Karaoke</string>
+    <string name="meetune_karaoke_beta">Spotify N AI Karaoke (Beta)</string>
     <string name="meetune_karaoke_beta_detail">%1$s · Beta</string>
     <string name="meetune_karaoke_on_snack">MeeTune AI Karaoke is on. Removing vocals, the song starts in a moment</string>
     <string name="meetune_karaoke_preparing">Removing vocals…</string>
