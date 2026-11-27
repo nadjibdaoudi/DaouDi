@@ -667,7 +667,7 @@
     <string name="mobile_update_notify_channel_desc">When a new MeeTube version is out</string>
     <string name="mobile_update_notify_title">New update available ✨</string>
     <string name="mobile_update_notify_text">MeeTube %1$s is here. Tap to see what\'s new</string>
-    <string name="mobile_update_notify_love">Built with love and a few sleepless nights. If MeeTube makes your day a little better, a coffee ☕ keeps it going. No pressure ❤️</string>
+    <string name="mobile_update_notify_love">Built with love and a few sleepless nights. If DaouDi makes your day a little better, a coffee ☕ keeps it going. No pressure ❤️</string>
     <!-- NEWTUBE(theme): Settings > User interface > Theme. -->
     <string name="mobile_theme">Theme</string>
     <string name="mobile_theme_system">System default</string>
@@ -705,7 +705,7 @@
     <string name="mobile_stats_delete">Delete my stats</string>
     <string name="mobile_stats_delete_confirm">Delete your stats?</string>
     <string name="mobile_stats_delete_body">Time spent, watch time and videos counted, for every day. They start again from zero.</string>
-    <string name="mobile_stats_private">Your stats (time in MeeTube, watch time, videos started) are kept only on this phone. They are never uploaded or shared: no data leaves your device.</string>
+    <string name="mobile_stats_private">Your stats (time in DaouDi, watch time, videos started) are kept only on this phone. They are never uploaded or shared: no data leaves your device.</string>
     <string name="mobile_stats_on_device">🔒 Only on this phone. Nothing leaves your device.</string>
     <plurals name="mobile_stats_delete_summary">
         <item quantity="one">%d day kept on this phone</item>
