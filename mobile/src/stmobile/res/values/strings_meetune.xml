@@ -126,7 +126,7 @@
     <string name="meetune_save_sign_in">Sign in to save music to your library</string>
     <string name="meetune_save_failed">Couldn\'t change your library</string>
     <!-- MeeTune's Equalizer -->
-    <string name="meetune_eq">MeeTune Equalizer</string>
+    <string name="meetune_eq">Spotify N Equalizer</string>
     <string name="meetune_eq_sound">Sound</string>
     <string name="meetune_eq_off">Off</string>
     <string name="meetune_eq_note">Shapes MeeTune\'s songs inside the app, before they reach the phone. MeeTube videos keep their own sound.</string>
